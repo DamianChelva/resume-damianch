@@ -1,7 +1,7 @@
 # Resume - Damian Chelverajan
 
 ## Overview
-This repository contains the HTML-based resume for Damian Chelverajan, a computing professional with expertise in IT solutions, cloud architecture, and network administration.
+This repository contains the HTML-based resume of myself, a computing professional with expertise in IT solutions, cloud architecture, and network administration.
 
 ## Contents
 - **index.htm** - The main resume document with professional experience, skills, and certifications
