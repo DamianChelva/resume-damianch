@@ -29,5 +29,6 @@ Simply open `index.htm` in any web browser to view the formatted resume.
 - Easy to print or save as PDF from the browser
 
 ---
+<img width="761" height="611" alt="image" src="https://github.com/user-attachments/assets/02560d71-20b0-45a5-9fc2-5eb1bd1a0ad1" />
 
 *Last Updated: December 2025*
