@@ -22,7 +22,6 @@ This repository contains the modern HTML-based resume for Damian Chelvarajan, an
 - **AWS Certified Solutions Architect – Associate** (In Progress - 2026)
 
 ## Contact Information
-- **Phone:** 0411 404 648
 - **Email:** damian_lk@hotmail.com
 - **Location:** Bomaderry, NSW 2541
 - **Status:** Australian Permanent Resident
