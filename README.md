@@ -5,7 +5,7 @@ This repository contains the modern HTML-based resume for Damian Chelvarajan, an
 
 ## Contents
 - **index.html** - The main resume document with professional experience, skills, and certifications
-- **update-s3.sh** - Script to upload resume to S3 bucket
+- **update-s3.sh** - Script to upload resume to S3 {yourbucket} bucket
 - **s3-logs-bucket.yaml** - CloudFormation template for S3 logging bucket
 - **cloudfront-with-logging.yaml** - CloudFormation template for CloudFront distribution
 - **deploy-infrastructure.ps1** - PowerShell script to deploy AWS infrastructure
